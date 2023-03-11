@@ -1,4 +1,4 @@
-<p align="center"><img width="10%" src="https://nurahmed.netlify.app/assets/images/logo.png" alt="nur-ahmed-logo"></p>
+<p align="center"><img width="20%" src="https://nurahmed.netlify.app/assets/images/logo.png" alt="nur-ahmed-logo"></p>
 <h1 align="center">Hi 👋, I'm Md. Nur Ahmed</h1>
 <h3 align="center">A full-stack web developer with over 1 year of experience</h3>
 
