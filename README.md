@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://nurahmed.netlify.app/pages/blog.html](https://nurahmed.netlify.app/pages/blog.html)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap and Laravel**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap and Laravel**
 
 - 📫 How to reach me **https://nurahmed.netlify.app/**
 
