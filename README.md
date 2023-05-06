@@ -37,5 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=na0260&show_icons=true&locale=en" alt="na0260" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0260&" alt="na0260" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na0260&layout=compact)](https://github.com/na0260/github-readme-stats)
+<br>
 [![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0260)](https://github.com/na0260/github-readme-stats)
