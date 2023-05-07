@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nurahmed0260" target="blank"><img src="https://img.shields.io/twitter/follow/nurahmed0260?logo=twitter&style=for-the-badge" alt="nurahmed0260" /></a> </p>
 
-- 🔭 I’m currently working on [Soft Park IT](http://softparkit.com/)
+- 🔭 I’m currently working on [Artico](https://www.artico.com.bd/)
 
 - 🌱 I’m currently learning **React js**
 
