@@ -52,7 +52,7 @@ I am a **Full-Stack Engineer** currently contributing to the technical landscape
 
 ---
 
-### 📊 Performance Metrics (Including Private Commits)
+### 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=na0260&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" width="49%" />
