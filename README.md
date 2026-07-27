@@ -57,8 +57,8 @@ Software Engineer with **2 years of professional experience** building scalable 
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=na0260&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na0260&layout=compact&theme=radical&hide_border=true&title_color=36BCF7&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-uf52.vercel.app/api?username=na0260&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-uf52.vercel.app/api/top-langs/?username=na0260&layout=compact&theme=radical&hide_border=true&title_color=36BCF7&count_private=true" width="49%" />
 </div>
 
 <div align="center">
