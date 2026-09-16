@@ -23,7 +23,7 @@
 Software Engineer with **2 years of professional experience** building scalable Laravel applications, REST APIs, and high-volume MySQL systems. Experienced in enterprise web applications, database optimization, and server administration. Published researcher with IEEE and Elsevier publications.
 
 - 🚀 **Enterprise Scale:** Engineered core modules and microservices for SPRO (secondary sales platform deployed across 50+ countries) handling datasets exceeding **10 million+ rows**.
-- ⚡ **Performance Tuning:** Optimized database queries and index strategies, reducing complex report generation times significantly (e.g., from 102s down to 27s).
+- ⚡ **Performance Tuning:** Optimized database queries and index strategies, reducing complex report generation times significantly.
 - 🛠️ **Full-Stack Mastery:** Bridging robust **Laravel** backend backbones with high-performance **Next.js** and modern frontend interfaces.
 
 ---
